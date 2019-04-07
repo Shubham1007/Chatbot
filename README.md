@@ -3,7 +3,6 @@ A chatbot (also known as a smartbot, conversational bot, chatterbot, interactive
 
 
 ## How do Chatbots work?
-
 <b>There are broadly two variants of chatbots: Rule-Based and Self learning.</b><br/>
 
 <b>In a Rule-based approach</b>, a bot answers questions based on some rules on which it is trained on. The rules defined can be very simple to very complex. The bots can handle simple queries but fail to manage complex ones.<br/>
@@ -12,7 +11,7 @@ i) <b>In retrieval-based models</b>, a chatbot uses some heuristic to select a r
 
 ii)<b> In Generative bots </b>can generate the answers and not always replies with one of the answers from a set of answers. This makes them more intelligent as they take word by word from the query and generates the answers.<br/>
 
-<img src="caps1.JPG" /> <br/>
+<img src="caps1.JPG" /> <br/><br/>
 
 
 # Downloading and installing NLTK
