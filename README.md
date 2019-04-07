@@ -12,7 +12,7 @@ i) <b>In retrieval-based models</b>, a chatbot uses some heuristic to select a r
 
 ii)<b> In Generative bots </b>can generate the answers and not always replies with one of the answers from a set of answers. This makes them more intelligent as they take word by word from the query and generates the answers.<br/>
 
-<img src="caps2.JPG" /> <br/>
+<img src="caps1.JPG" /> <br/>
 
 
 # Downloading and installing NLTK
