@@ -43,3 +43,8 @@ Stemming is the process of reducing inflected (or sometimes derived) words to th
 A slight variant of stemming is lemmatization. The major difference between these is, that, stemming can often create non-existent words, whereas lemmas are actual words. So, your root stem, meaning the word you end up with, is not something you can just look up in a dictionary, but you can look up a lemma. Examples of Lemmatization are that “run” is a base form for words like “running” or “ran” or that the word “better” and “good” are in the same lemma so they are considered the same.
 
 
+
+## Output:
+
+<img src="caps.JPG" /> <br/>
+
