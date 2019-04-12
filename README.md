@@ -22,6 +22,7 @@ ii)<b> In Generative bots </b>can generate the answers and not always replies wi
 <img src="caps1.JPG" /> <br/><br/>
 
 
+
 # Downloading and installing NLTK
 
 
