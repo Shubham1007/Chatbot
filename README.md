@@ -5,6 +5,7 @@ A chatbot (also known as a smartbot, conversational bot, chatterbot, interactive
 
 
 
+
 ## How do Chatbots work?
 <b>There are broadly two variants of chatbots: Rule-Based and Self learning.</b><br/>
 
